@@ -1,4 +1,4 @@
-# first-prject
+# first-project
 To learn more about git &amp; github
 
 
